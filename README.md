@@ -11,10 +11,7 @@ reducing waste).
 - Interactive Streamlit app for predictions
 - Reinforcement learning model (describe the algorithm, e.g. DQN / PPO)
 - Visualizations of generation trends and model performance
-
-## Demo
-![solar_ml\🏠Home.py]
-
+  
 ## Tech Stack
 Python, Streamlit, Pandas, NumPy, Scikit-learn, Jupyter, <RL library>
 
